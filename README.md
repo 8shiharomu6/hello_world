@@ -6,3 +6,5 @@ tuikasitayo
 1000
 
 hello 20191015
+
+curry hot
