@@ -3,3 +3,4 @@
 murihashi hiroaki
 
 tuikasitayo
+1000
